@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, St. Stephen's College, Delhi University, 2008.
-* M.S. in Physics,  Indian Institute of Technology, Kanpur, 2010.
 * Ph.D in Physics, Emory University, 2015.
+* M.S. in Physics,  Indian Institute of Technology, Kanpur, 2010.
+* B.S. in Physics, St. Stephen's College, Delhi University, 2008.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2019-Presnet: Assistant Professor: North Carolina Agricultural and Technical State University
+* Sept 2015 - Aug 2019: Postdoctoral Fellow, University of Pennsylvania
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +38,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
