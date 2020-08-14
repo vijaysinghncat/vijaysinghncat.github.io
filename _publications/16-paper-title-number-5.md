@@ -10,6 +10,6 @@ citation: 'Singh, V., Tchernookov, M., &amp; Nemenman, I. (2016). Effects of rec
 ---
 This paper shows that negative correlations does not increase information.
 
-[Download paper here](https://doi.org/10.1103/PhysRevE.94.022425)
+[Download paper here](https://vijaysinghncat.github.io/files/paper5.pdf)
 
 Recommended citation: Singh, V., Tchernookov, M., & Nemenman, I. (2016). Effects of receptor correlations on molecular information transmission. Physical Review E, 94(2), 022425.

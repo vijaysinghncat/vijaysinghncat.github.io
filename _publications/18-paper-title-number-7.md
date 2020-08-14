@@ -10,6 +10,6 @@ citation: 'Singh, V., Cottaris, N. P., Heasly, B. S., Brainard, D. H., &amp; Bur
 ---
 This paper studies lightness constancy using a computaional mdoel.
 
-[Download paper here](https://doi.org/10.1167/18.13.19)
+[Download paper here](https://vijaysinghncat.github.io/files/paper7.pdf)
 
 Recommended citation: Singh, V., Cottaris, N. P., Heasly, B. S., Brainard, D. H., & Burge, J. (2018). Computational luminance constancy from naturalistic images. Journal of Vision, 18(13), 1-19.

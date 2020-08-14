@@ -10,6 +10,6 @@ citation: 'Singh, V., Murphy, N. R., Balasubramanian, V., &amp; Mainland, J. D. 
 ---
 This paper shows that olfacotry receptor reponse to mixtures can be modeled using a biophysical model.
 
-[Download paper here](https://doi.org/10.1073/pnas.1813230116)
+[Download paper here](https://vijaysinghncat.github.io/files/paper8.pdf)
 
 Recommended citation: Singh, V., Murphy, N. R., Balasubramanian, V., & Mainland, J. D. (2019). Competitive binding predicts nonlinear responses of olfactory receptors to complex mixtures. Proceedings of the National Academy of Sciences, 116(19), 9598-9603.

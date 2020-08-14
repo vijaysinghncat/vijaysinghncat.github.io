@@ -10,6 +10,6 @@ citation: 'Singh, V., &amp; Boettcher, S. (2014). Scaling of clusters near disco
 ---
 This paper discusses percolation on hierarchical networks.
 
-[Download paper here](https://doi.org/10.1103/PhysRevE.90.012117)
+[Download paper here](https://vijaysinghncat.github.io/files/paper2.pdf)
 
 Recommended citation: Singh, V., & Boettcher, S. (2014). Scaling of clusters near discontinuous percolation transitions in hyperbolic networks. Physical Review E, 90(1), 012117.

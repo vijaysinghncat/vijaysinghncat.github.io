@@ -10,6 +10,6 @@ citation: 'Singh, V., Tchernookov, M., Butterfield, R., &amp; Nemenman, I. (2014
 ---
 This paper develops a continumm model of the primary visual cortex for contour detection. 
 
-[Download paper here](https://doi.org/10.1371/journal.pone.0108991)
+[Download paper here](https://vijaysinghncat.github.io/files/paper3.pdf)
 
 Recommended citation: Singh, V., Tchernookov, M., Butterfield, R., & Nemenman, I. (2014). Director field model of the primary visual cortex for contour detection. PloS One, 9(10), e108991.

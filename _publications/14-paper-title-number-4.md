@@ -10,6 +10,6 @@ citation: 'Singh, V., Brunson, C. T., &amp; Boettcher, S. (2014). From explosive
 ---
 This paper studies Potts model on hierarchical networks.
 
-[Download paper here](https://doi.org/10.1103/PhysRevE.90.052119)
+[Download paper here](https://vijaysinghncat.github.io/files/paper4.pdf)
 
 Recommended citation: Singh, V., Brunson, C. T., & Boettcher, S. (2014). From explosive to infinite-order transitions on a hyperbolic network. Physical Review E, 90(5), 052119.

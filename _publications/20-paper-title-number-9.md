@@ -10,6 +10,6 @@ citation: 'Singh, V., &amp; Nemenman, I. (2020). Universal properties of concent
 ---
 This paper shows universal properties of ligand receptor networks.
 
-[Download paper here](https://doi.org/10.1103/PhysRevLett.124.028101)
+[Download paper here](https://vijaysinghncat.github.io/files/paper9.pdf)
 
 Recommended citation: Singh, V., & Nemenman, I. (2020). Universal properties of concentration sensing in large ligand-receptor networks. Physical Review Letters, 124(2), 028101.

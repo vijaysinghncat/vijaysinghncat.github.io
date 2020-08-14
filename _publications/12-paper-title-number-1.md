@@ -10,6 +10,6 @@ citation: 'Boettcher, S., Singh, V., &amp; Ziff, R. M. (2012). Ordinary percolat
 ---
 This paper gives an analytical proof of the existence of discontinuous percolation transition. 
 
-[Download paper here](https://doi: 10.1038/ncomms1774 (2012))
+[Download paper here](https://vijaysinghncat.github.io/files/paper1.pdf)
 
 Recommended citation: Boettcher, S., Singh, V., & Ziff, R. M. (2012). Ordinary percolation with discontinuous transitions. Nature Communications, 3(1), 1-5.
