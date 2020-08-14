@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Aug 2019-Presnet: Assistant Professor: North Carolina Agricultural and Technical State University
+* Aug 2019-Present: Assistant Professor: North Carolina Agricultural and Technical State University
 * Sept 2015 - Aug 2019: Postdoctoral Fellow, University of Pennsylvania
   
 
