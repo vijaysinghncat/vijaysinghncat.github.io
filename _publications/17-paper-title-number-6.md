@@ -3,7 +3,7 @@ title: "Simple Biochemical Networks allow Accurate Sensing of Multiple Ligands w
 collection: publications
 permalink: /publication/4/14/17-paper-title-number-6
 excerpt: 'This paper shows how one receptor can detect more than one ligand specie.'
-date: 04/14/17
+date: 4/14/17
 venue: 'PLOS Comp Bio'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1005490'
 citation: 'Singh, V., &amp; Nemenman, I. (2017). Simple biochemical networks allow accurate sensing of multiple ligands with a single receptor. PLoS Computational Biology, 13(4), e1005490.'
