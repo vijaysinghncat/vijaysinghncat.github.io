@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Also Available in PDF format.](https://vijaysinghncat.github.io/files/VijaySinghCV.pdf)
+                                        
+                                        Vijay Singh
+                                      Curriculum Viate
 
 Education
 ======
