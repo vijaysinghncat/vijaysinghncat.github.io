@@ -31,10 +31,10 @@ Publications
 Conference Presentations
 ======
 16. June 2020    Equivalent Noise Characterization of Human Lightness Constancy, Virtual-VSS, Vision Science Society Annual Meeting, Online.
-15. Dec 2019    *(Invited)* What the odor is not: Estimation by elimination, Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
-14. Dec 2019    *(Invited)* What the odor is not: Estimation by elimination, Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
-13. Apr 2019    *(Invited)* A Competitive Binding Model Predicts the Response of Mammalian Olfactory Receptors to Mixtures, Association for Chemoreception Sciences, Bonita Springs, Florida.
-12. Mar 2018    *(Invited)* What the odor is not: Estimation by elimination. APS March Meeting, Boston, Massachusetts.
+15. Dec 2019    **(Invited)** What the odor is not: Estimation by elimination, Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
+14. Dec 2019    **(Invited)** What the odor is not: Estimation by elimination, Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
+13. Apr 2019    **(Invited)** A Competitive Binding Model Predicts the Response of Mammalian Olfactory Receptors to Mixtures, Association for Chemoreception Sciences, Bonita Springs, Florida.
+12. Mar 2018    **(Invited)** What the odor is not: Estimation by elimination. APS March Meeting, Boston, Massachusetts.
 11. Mar 2018    Universal Properties of Estimating many Ligand Species Concentrations by many Cellular Receptor Types, APS March Meeting, Los Angeles, California.
 10. Nov 2017    A Supervised Approach to Understanding Human Color Constancy for Naturalistic Scenes.            Society for Neuroscience Annual Meeting, Washington, D.C.
 9. Sep 2017    A Supervised Approach to Understand Human Color Constancy. Conference on Cognitive Computational Neuroscience, New York, New York.
