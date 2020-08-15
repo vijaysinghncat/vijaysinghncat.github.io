@@ -31,7 +31,6 @@ Publications
 Conference Presentations
 ======
 15. Jun 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equivalent Noise Characterization of Human Lightness Constancy (Poster). Virtual-VSS, Vision Science Society Annual Meeting, Online.
- dcdcdc
 14. Dec 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** What the odor is not: Estimation by elimination (Poster and Talk). Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
 13. Apr 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** A Competitive Binding Model Predicts the Response of Mammalian Olfactory Receptors to Mixtures (Talk). Association for Chemoreception Sciences, Bonita Springs, Florida.
 12. Mar 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** What the odor is not: Estimation by elimination (Talk). APS March Meeting, Boston, Massachusetts.
@@ -49,7 +48,10 @@ Conference Presentations
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 600 Classical Mechanics, North Carolina A&T State University, Greensboro, NC.
+2. Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 434 Biological Physics, North Carolina A&T State University, Greensboro, NC.
+3. Spring 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 335 Introduction to Computations in Physics, North Carolina A&T State University, Greensboro, NC.
+4. Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 600 Classical Mechanics, North Carolina A&T State University, Greensboro, NC.
+  
+  
 
