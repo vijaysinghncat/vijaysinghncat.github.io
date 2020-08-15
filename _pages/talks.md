@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conference Presentations
-======
+
 15. Jun 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equivalent Noise Characterization of Human Lightness Constancy.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Virtual-VSS, Vision Science Society Annual Meeting, Online.
@@ -53,8 +53,8 @@ APS March Meeting, Baltimore, MD.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 APS March Meeting, Boston, MA.
 
-Invited Talks
-======
+## Invited Talks
+
 10. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Information processing in biological systems, Towson University, Baltimore, MD.
 9. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		Information processing in biological systems, North Carolina A&T State University, Greensboro, NC.
 8. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		What the odor is not: Estimation by elimination, Flatiron Institute, New York, NY.
