@@ -31,7 +31,7 @@ Publications
 Conference Presentations
 ======
 15. Jun 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equivalent Noise Characterization of Human Lightness Constancy (Poster).
- Virtual-VSS, Vision Science Society Annual Meeting, Online.
+:Virtual-VSS, Vision Science Society Annual Meeting, Online.
 14. Dec 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** What the odor is not: Estimation by elimination (Poster and Talk). 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
 13. Apr 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** A Competitive Binding Model Predicts the Response of Mammalian Olfactory Receptors to Mixtures (Talk). 
