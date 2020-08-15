@@ -31,7 +31,7 @@ Publications
 Conference Presentations
 ======
 15. Jun 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equivalent Noise Characterization of Human Lightness Constancy (Poster).<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Virtual-VSS, Vision Science Society Annual Meeting, Online.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Virtual-VSS, Vision Science Society Annual Meeting, Online.
 14. Dec 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** What the odor is not: Estimation by elimination (Poster and Talk). Sensing Chemical Spaces, Princeton University, New Jersey, NJ.
 13. Apr 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** A Competitive Binding Model Predicts the Response of Mammalian Olfactory Receptors to Mixtures (Talk). Association for Chemoreception Sciences, Bonita Springs, Florida.
 12. Mar 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    **(Invited)** What the odor is not: Estimation by elimination (Talk). APS March Meeting, Boston, Massachusetts.
