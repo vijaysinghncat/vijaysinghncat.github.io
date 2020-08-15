@@ -50,7 +50,7 @@ Teaching
 ======
 1. Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 600 Classical Mechanics, North Carolina A&T State University, Greensboro, NC.
 2. Fall 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 434 Biological Physics, North Carolina A&T State University, Greensboro, NC.
-3. Spring 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 335 Introduction to Computations in Physics, North Carolina A&T State University, Greensboro, NC.
+3. Spring 2020 &nbsp;&nbsp;&nbsp;&nbsp; PHYS 335 Introduction to Computations in Physics, North Carolina A&T State University, Greensboro, NC.
 4. Fall 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PHYS 600 Classical Mechanics, North Carolina A&T State University, Greensboro, NC.
   
   
